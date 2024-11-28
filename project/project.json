@@ -1,11 +1,10 @@
 [{
-        "title": "Form Website",
+        "title": "SPK Meotde profile matching",
         "tech": "HTML & CSS",
-        "image": "./assets/img/project/form.png",
-        "desc": "This is my first project. I Learn in freecodecamp to make form website using HTML & CSS",
+        "image": "./assets/img/project/spk.jpg",
+        "desc": "project sistem penunjang keputusan dengan metode profile matching",
         "links": {
-            "demo": "https://septiandwica.github.io/Survey-Form/",
-            "code": "https://github.com/ArsaKumar/Survey-Form"
+           
         }
     },
     {
@@ -14,8 +13,7 @@
         "image": "./assets/img/project/proyek web dasar.png",
         "desc": "This is my for dicoding submission.",
         "links": {
-            "demo": "https://ArsaKumar.github.io/Project-Web-Dasar/",
-            "code": "https://github.com/ArsaKumar/Project-Web-Dasar"
+           
         }
     }, {
         "title": "BookShelf Web App",
@@ -23,8 +21,7 @@
         "image": "./assets/img/project/bookshelf app.png",
         "desc": "This is my project for dicoding submission.",
         "links": {
-            "demo": "https://ArsaKumar.github.io/bookshelf-app/",
-            "code": "https://github.com/ArsaKumar/bookshelf-app"
+            
         }
     }, {
         "title": "Company Profile",
@@ -32,8 +29,7 @@
         "image": "./assets/img/project/proyek freelance.png",
         "desc": "This is my project for company profile(Thalia Education)",
         "links": {
-            "demo": "https://thaliaeducation.ArsaKumar.site",
-            "code": "https://github.com/ArsaKumar/Company-Profile-1"
+         
         }
     }, {
         "title": "Portfolio Website",
@@ -41,8 +37,7 @@
         "image": "./assets/img/project/porto.png",
         "desc": "Thiss is my project for personal portfolio.",
         "links": {
-            "demo": "https://thaliaeducation.ArsaKumar.site",
-            "code": "https://github.com/arsa-tampan"
+         
         }
     }
 ]

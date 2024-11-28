@@ -1,6 +1,6 @@
 // typing text hero
-const typed = new Typed(".typing-text", {
-  strings: ["Front-End Web Developer", "UI/UX ", "Content Creator"],
+const typed = new typed(".typing-text", {
+  strings: ["ArsaKumar", "Mahasiswa Universitas Raharja ", "Teknik Informatika"],
   loop: true,
   typeSpeed: 55,
   backSpeed: 25,
@@ -46,17 +46,8 @@ function showCertification(certification) {
                 src="${certification.image}"
                 alt="certification"/>
             <div class="desc">
-                <h3>
-                    ${certification.name}
-                </h3>
-                <p>By
-                    <span>${certification.by}</span>
-                </p>
-                <div class="credentials">
-                    <a class="btn" target="_blank" href="${certification.links.credentials}">
-                        view credentials
-                        <i class="fas fa-angle-right"></i>
-                    </a>
+             
+                
                 </div>
             </div>
         </div>`;
@@ -79,22 +70,7 @@ function showProject(project) {
             <p>
             ${project.desc}
             </p>
-            <div class="btns">
-                <a
-                    href="${project.links.demo}"
-                    class="btn"
-                    target="_blank">
-                    <i class="fas fa-eye"></i>
-                    Demo
-                </a>
-                <a
-                    href="${project.links.code}"
-                    class="btn"
-                    target="_blank">
-                    <i class="fas fa-code"></i>
-                    Code
-                </a>
-            </div>
+            
         </div>
     </div>
 </div>`;
